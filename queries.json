@@ -1,0 +1,389 @@
+{
+  "shipping": {
+    "ships": {
+      "queries": [
+        "container ship at sea",
+        "cargo ship vessel ocean",
+        "container vessel harbor"
+      ],
+      "include": [
+        "ship",
+        "vessel",
+        "cargo",
+        "container"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "flag",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "containers": {
+      "queries": [
+        "shipping containers port",
+        "container terminal stacks",
+        "stacked containers harbor"
+      ],
+      "include": [
+        "container",
+        "terminal",
+        "port",
+        "shipping"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "ports": {
+      "queries": [
+        "container port cranes",
+        "seaport terminal cranes",
+        "harbor cargo cranes"
+      ],
+      "include": [
+        "port",
+        "harbor",
+        "crane",
+        "terminal"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    }
+  },
+  "airline": {
+    "planes": {
+      "queries": [
+        "airplane runway airport",
+        "passenger jet tarmac",
+        "airliner at airport"
+      ],
+      "include": [
+        "aircraft",
+        "airplane",
+        "airport",
+        "jet",
+        "airliner"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "crews": {
+      "queries": [
+        "airport terminal gate interior",
+        "airport concourse terminal",
+        "boarding gate airport"
+      ],
+      "include": [
+        "airport",
+        "terminal",
+        "gate",
+        "concourse",
+        "boarding"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "lounges": {
+      "queries": [
+        "airport lounge interior",
+        "airline lounge interior",
+        "premium airport lounge"
+      ],
+      "include": [
+        "lounge",
+        "airport",
+        "interior",
+        "terminal"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    }
+  },
+  "megabank": {
+    "advisors": {
+      "queries": [
+        "bank office meeting",
+        "finance office meeting",
+        "business meeting office"
+      ],
+      "include": [
+        "office",
+        "meeting",
+        "bank",
+        "finance",
+        "business"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "research": {
+      "queries": [
+        "trading floor monitors",
+        "stock exchange trading room",
+        "financial trading desk"
+      ],
+      "include": [
+        "trading",
+        "floor",
+        "desk",
+        "exchange",
+        "monitor",
+        "office"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "premium": {
+      "queries": [
+        "executive office interior",
+        "corporate boardroom interior",
+        "premium office interior"
+      ],
+      "include": [
+        "office",
+        "boardroom",
+        "interior",
+        "corporate",
+        "business"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    }
+  },
+  "energy": {
+    "panels": {
+      "queries": [
+        "solar farm wind turbines",
+        "renewable energy facility",
+        "wind farm solar panels"
+      ],
+      "include": [
+        "solar",
+        "wind",
+        "energy",
+        "power",
+        "farm",
+        "turbine",
+        "panel"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "grid": {
+      "queries": [
+        "power substation transmission lines",
+        "electrical substation",
+        "power grid transmission tower"
+      ],
+      "include": [
+        "substation",
+        "power",
+        "transmission",
+        "grid",
+        "electrical"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "storage": {
+      "queries": [
+        "industrial storage tanks energy",
+        "battery energy storage facility",
+        "fuel storage tanks industrial"
+      ],
+      "include": [
+        "storage",
+        "tank",
+        "battery",
+        "industrial",
+        "energy",
+        "facility"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    }
+  },
+  "defense": {
+    "engineers": {
+      "queries": [
+        "mission control room",
+        "engineering control room",
+        "aerospace engineering lab"
+      ],
+      "include": [
+        "control",
+        "room",
+        "engineering",
+        "lab",
+        "aerospace",
+        "operations"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "lines": {
+      "queries": [
+        "factory assembly line heavy industry",
+        "industrial manufacturing line",
+        "manufacturing plant assembly"
+      ],
+      "include": [
+        "factory",
+        "assembly",
+        "industrial",
+        "manufacturing",
+        "plant",
+        "line"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    },
+    "contracts": {
+      "queries": [
+        "command center screens",
+        "operations room screens",
+        "control room screens"
+      ],
+      "include": [
+        "command",
+        "operations",
+        "control",
+        "room",
+        "screen",
+        "center"
+      ],
+      "exclude": [
+        "diagram",
+        "map",
+        "logo",
+        "drawing",
+        "painting",
+        "model",
+        "toy",
+        "poster",
+        "stamp"
+      ]
+    }
+  }
+}
